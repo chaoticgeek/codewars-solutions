@@ -1,4 +1,4 @@
-# [Codewars.com](www.codewars.com/r/shEmnA) Solutions to Select Problems #
+# Codewars.com Solutions to Select Problems #
 
 This is just a simple repo of some of the katas I have saved because I thought they were fun, interesting, or challenging. Below is a list of links and the title I gave them. Sorted into folders for the kyu they are assigned.
 
